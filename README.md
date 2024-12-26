@@ -19,4 +19,12 @@ The algorithm successfully trained the agent to perform autonomous navigation wi
 
 The visualization below shows the turtlebot navigating between a particular set of start and goal positions.
 
+<p align='center'>
+    <img src="TD3_Demo_Video.gif" alt="drawing" width="800"/>
+</p>
+
 ---
+
+## References
+- Deep Reinforcement Learning with Enhanced PPO for Safe Mobile Robot Navigation. [link](https://arxiv.org/abs/2405.16266)
+- https://github.com/hamidthri/navbot_ppo/tree/master
